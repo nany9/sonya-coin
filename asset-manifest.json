@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/sonya-coin/static/css/main.2e277a1a.css",
-    "main.js": "/sonya-coin/static/js/main.25d1d906.js",
+    "main.css": "/sonya-coin/static/css/main.95ea457d.css",
+    "main.js": "/sonya-coin/static/js/main.f3f0d316.js",
     "static/js/453.09cc2d27.chunk.js": "/sonya-coin/static/js/453.09cc2d27.chunk.js",
     "static/media/sonya.jpg": "/sonya-coin/static/media/sonya.e74d967bcdaf105e657b.jpg",
     "static/media/profile-circle.svg": "/sonya-coin/static/media/profile-circle.9e9505385662493bbcca222414b42682.svg",
     "index.html": "/sonya-coin/index.html",
     "static/media/heart.svg": "/sonya-coin/static/media/heart.bebc5775718565cd88748d2041440dcc.svg",
-    "main.2e277a1a.css.map": "/sonya-coin/static/css/main.2e277a1a.css.map",
-    "main.25d1d906.js.map": "/sonya-coin/static/js/main.25d1d906.js.map",
+    "main.95ea457d.css.map": "/sonya-coin/static/css/main.95ea457d.css.map",
+    "main.f3f0d316.js.map": "/sonya-coin/static/js/main.f3f0d316.js.map",
     "453.09cc2d27.chunk.js.map": "/sonya-coin/static/js/453.09cc2d27.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2e277a1a.css",
-    "static/js/main.25d1d906.js"
+    "static/css/main.95ea457d.css",
+    "static/js/main.f3f0d316.js"
   ]
 }
