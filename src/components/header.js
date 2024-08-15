@@ -2,8 +2,13 @@ import React from 'react'
 import plusbtn from '../img/sonya.jpg'
 import profile from '../img/profile-circle.svg'
 
+
+
+
 export default function Header() {
-  var text = 'Сонякоины: '
+  
+  const tg = window.Telegram.WebApp
+  var usnm = tg.initDataUnsafe?.user?.username
   var balance = 0
   var incomePerClick = 1
   var price = 100
@@ -32,6 +37,7 @@ export default function Header() {
     <header>
         <div className='mainDiv'>
           <div className='upper'>
+            <span>Привет, {usnm}</span>
             <span class='capt' id="caption">Сонякоины</span>
             <span class='balance-capt' id="balance-caption">{balance}</span>
           </div>
